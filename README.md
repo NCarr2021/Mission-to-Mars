@@ -2,7 +2,7 @@
 
 # Module 10 Challenge - Mission To Mars
 
-# The Mission-to-Mars Challenge involved using different utilities like Python, Flask, PyMongo,
+The Mission-to-Mars Challenge involved using different utilities like Python, Flask, PyMongo,
 Beautiful Soup and Splinter to scrape data from Mars related websites and use BootStrap
 to enhance the site.
 
